@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girl_Shooters", "Girl Shooters\Girl_Shooters\Girl_Shooters.csproj", "{C3B55C20-631F-428B-B8FC-503A54E269B0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Girl_ShootersContent", "Girl Shooters\Girl_ShootersContent\Girl_ShootersContent.contentproj", "{8C67B9C7-C77B-4381-8B23-2417E0C517C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B55C20-631F-428B-B8FC-503A54E269B0}.Debug|x86.ActiveCfg = Debug|x86
+		{C3B55C20-631F-428B-B8FC-503A54E269B0}.Debug|x86.Build.0 = Debug|x86
+		{C3B55C20-631F-428B-B8FC-503A54E269B0}.Release|x86.ActiveCfg = Release|x86
+		{C3B55C20-631F-428B-B8FC-503A54E269B0}.Release|x86.Build.0 = Release|x86
+		{8C67B9C7-C77B-4381-8B23-2417E0C517C2}.Debug|x86.ActiveCfg = Debug|x86
+		{8C67B9C7-C77B-4381-8B23-2417E0C517C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

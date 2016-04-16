@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\fightBackground.jpg</Source>
+      <Name>Backgrounds\fightBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\fightBackground.xnb</Output>
+      <Time>2014-10-15T20:40:22.5005227-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Girls\female1.png</Source>
+      <Name>Girls\female1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Girls\female1.xnb</Output>
+      <Time>2014-10-15T19:48:28.6200465-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Girls\female2.png</Source>
+      <Name>Girls\female2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Girls\female2.xnb</Output>
+      <Time>2014-10-15T19:48:36.4189112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullets\bullet1.jpg</Source>
+      <Name>Bullets\bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Bullets\bullet1.xnb</Output>
+      <Time>2014-10-16T17:34:22.2870475-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\gameEnd.jpg</Source>
+      <Name>Backgrounds\gameEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\gameEnd.xnb</Output>
+      <Time>2014-10-21T17:29:28.467869-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\scrolling1.jpg</Source>
+      <Name>Backgrounds\scrolling1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\scrolling1.xnb</Output>
+      <Time>2014-10-22T11:50:49.779278-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\scrolling2.jpg</Source>
+      <Name>Backgrounds\scrolling2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\scrolling2.xnb</Output>
+      <Time>2014-10-22T11:50:49.7949033-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\scrolling3.jpg</Source>
+      <Name>Backgrounds\scrolling3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\scrolling3.xnb</Output>
+      <Time>2014-10-22T11:50:49.8105365-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\enemy1.png</Source>
+      <Name>Enemies\enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Enemies\enemy1.xnb</Output>
+      <Time>2014-10-23T17:35:03.7794531-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\win.jpg</Source>
+      <Name>Backgrounds\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\win.xnb</Output>
+      <Time>2014-10-28T16:51:15.9092147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space0.jpg</Source>
+      <Name>Backgrounds\space0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\space0.xnb</Output>
+      <Time>2014-10-29T19:16:58.839368-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space1.jpg</Source>
+      <Name>Backgrounds\space1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\space1.xnb</Output>
+      <Time>2014-10-29T19:19:43.5523869-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space3.jpg</Source>
+      <Name>Backgrounds\space3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\space3.xnb</Output>
+      <Time>2014-10-29T19:19:57.752225-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\alien1.png</Source>
+      <Name>Enemies\alien1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Enemies\alien1.xnb</Output>
+      <Time>2014-10-29T19:50:15.4150509-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-10-29T22:59:25.9145111-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\boss1.png</Source>
+      <Name>Boss\boss1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Boss\boss1.xnb</Output>
+      <Time>2014-10-30T11:30:13.5867088-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\bosshit.png</Source>
+      <Name>Boss\bosshit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Boss\bosshit.xnb</Output>
+      <Time>2014-10-30T11:30:13.5917122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\bossmad.png</Source>
+      <Name>Boss\bossmad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Boss\bossmad.xnb</Output>
+      <Time>2014-10-30T11:30:13.5967149-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\boss_background.png</Source>
+      <Name>Backgrounds\boss_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\boss_background.xnb</Output>
+      <Time>2014-10-30T11:48:33.3054358-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\alienShot.png</Source>
+      <Name>Boss\alienShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Boss\alienShot.xnb</Output>
+      <Time>2014-11-04T17:40:17.7007837-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\alienMenu.jpg</Source>
+      <Name>Backgrounds\alienMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\alienMenu.xnb</Output>
+      <Time>2014-11-04T17:43:01.5060547-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Royalty_Free.mp3</Source>
+      <Name>Backgrounds\Royalty_Free</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\Royalty_Free.xnb</Output>
+      <Extra>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\Royalty_Free.wma</Extra>
+      <Time>2014-10-16T14:43:18.8170245-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\game_over.mp3</Source>
+      <Name>Backgrounds\game_over</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\game_over.xnb</Output>
+      <Extra>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Backgrounds\game_over.wma</Extra>
+      <Time>2014-10-30T15:14:59.3232922-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Effects\first_gun.wav</Source>
+      <Name>Sound_Effects\first_gun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Sound_Effects\first_gun.xnb</Output>
+      <Time>2014-10-16T16:53:14.4351014-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Effects\game_over.wav</Source>
+      <Name>Sound_Effects\game_over</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Sound_Effects\game_over.xnb</Output>
+      <Time>2014-10-30T14:17:56.7824685-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Effects\enemydie.wav</Source>
+      <Name>Sound_Effects\enemydie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Sound_Effects\enemydie.xnb</Output>
+      <Time>2014-10-30T14:28:09.7930738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound_Effects\aliendie.wav</Source>
+      <Name>Sound_Effects\aliendie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Sound_Effects\aliendie.xnb</Output>
+      <Time>2014-10-30T14:34:46.77499-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\font1.spritefont</Source>
+      <Name>Font\font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Font\font1.xnb</Output>
+      <Time>2014-10-27T17:33:44.958066-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\font2.spritefont</Source>
+      <Name>Font\font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\Font\font2.xnb</Output>
+      <Time>2014-11-04T17:15:02.9981184-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8C67B9C7-C77B-4381-8B23-2417E0C517C2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_ShootersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Girl Shooters\Girl Shooters\Girl_Shooters\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-30T20:46:03.9492025-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
